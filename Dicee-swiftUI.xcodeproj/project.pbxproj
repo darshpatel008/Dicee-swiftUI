@@ -14,6 +14,7 @@
 		B16E89A82C9A973D006A0123 /* Dicee_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16E89A72C9A973D006A0123 /* Dicee_swiftUITests.swift */; };
 		B16E89B22C9A973D006A0123 /* Dicee_swiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16E89B12C9A973D006A0123 /* Dicee_swiftUIUITests.swift */; };
 		B16E89B42C9A973D006A0123 /* Dicee_swiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16E89B32C9A973D006A0123 /* Dicee_swiftUIUITestsLaunchTests.swift */; };
+		B16E89C12C9A99E6006A0123 /* ImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B16E89C02C9A99E6006A0123 /* ImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		B16E89AD2C9A973D006A0123 /* Dicee-swiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dicee-swiftUIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B16E89B12C9A973D006A0123 /* Dicee_swiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dicee_swiftUIUITests.swift; sourceTree = "<group>"; };
 		B16E89B32C9A973D006A0123 /* Dicee_swiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dicee_swiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B16E89C02C9A99E6006A0123 /* ImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				B16E89962C9A973B006A0123 /* Dicee_swiftUIApp.swift */,
 				B16E89982C9A973B006A0123 /* ContentView.swift */,
+				B16E89C02C9A99E6006A0123 /* ImageView.swift */,
 				B16E899A2C9A973D006A0123 /* Assets.xcassets */,
 				B16E899C2C9A973D006A0123 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B16E89C12C9A99E6006A0123 /* ImageView.swift in Sources */,
 				B16E89992C9A973B006A0123 /* ContentView.swift in Sources */,
 				B16E89972C9A973B006A0123 /* Dicee_swiftUIApp.swift in Sources */,
 			);
